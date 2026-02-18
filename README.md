@@ -31,7 +31,7 @@ pip install numpy opencv-python
 
 ```bash
 git clone https://github.com/<your-username>/curiosity-raw-image-pipeline.git
-cd mastcam-pds-processor
+cd curiosity-raw-image-pipeline
 pip install numpy opencv-python
 ```
 
