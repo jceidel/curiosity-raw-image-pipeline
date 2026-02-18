@@ -157,11 +157,6 @@ mastcam-pds-processor/
 
 The processed imagery from this pipeline is used to generate 3D photogrammetry assets (via RealityScan) for building Martian simulation environments in Unreal Engine.
 
-This project grew out of a broader Mars visualization practice that includes monumental-scale paintings of the Martian surface created from JPL-processed Mastcam imagery:
-
-![Mars rock painting installation](mercouinstall.jpg)
-
-
 ## Acknowledgements
 
 - NASA/JPL-Caltech/MSSS for the MSL Mastcam instrument and public data archive
