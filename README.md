@@ -160,7 +160,7 @@ The processed imagery from this pipeline is used to generate 3D photogrammetry a
 This project grew out of a broader Mars visualization practice that includes monumental-scale paintings of the Martian surface created from JPL-processed Mastcam imagery:
 
 ![Mars rock painting installation](mercouinstall.jpg)
-*Large-scale painting of a Martian rock formation, derived from JPL-processed Mastcam data, exhibited in a warehouse installation.*
+
 
 ## Acknowledgements
 
