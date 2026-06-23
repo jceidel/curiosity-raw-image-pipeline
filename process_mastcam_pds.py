@@ -47,10 +47,13 @@ def parse_pds4_label(xml_path):
     Returns:
         dict with keys: file_name, offset, lines, samples, bits, bayer, lut
     """
+  
+    # Set up shorthand for the two PDS4 vocabularies
     ns = {
         "pds": "http://pds.nasa.gov/pds4/pds/v1",
         "img": "http://pds.nasa.gov/pds4/img/v1",
     }
+    # Grab the root
     root = ET.parse(xml_path).getroot()
 
     # Get referenced data file name
